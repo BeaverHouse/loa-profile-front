@@ -81,6 +81,15 @@ export const GuardianItems = [
             {name: "찬란한 명예의 돌파석", value: 8},
         ],
         options: [2,3]
+    },
+    {
+        name: "가르가디스",
+        items: [
+            {name: "정제된 파괴강석", value: 100},
+            {name: "정제된 수호강석", value: 300},
+            {name: "찬란한 명예의 돌파석", value: 12},
+        ],
+        options: [5,6]
     }
 ]
 
@@ -112,6 +121,22 @@ export const BattleItemOption = [
             {name: "신호탄", value: 2},
             {name: "페로몬 폭탄", value: 4},
             {name: "부식 폭탄", value: 4},
+        ]
+    },
+    {
+        name: "신페파암",
+        items: [
+            {name: "신호탄", value: 2},
+            {name: "페로몬 폭탄", value: 2},
+            {name: "파괴 폭탄", value: 2},
+            {name: "암흑 수류탄", value: 2},
+        ]
+    },
+    {
+        name: "신암신암",
+        items: [
+            {name: "신호탄", value: 2},
+            {name: "암흑 수류탄", value: 2},
         ]
     }
 ]
