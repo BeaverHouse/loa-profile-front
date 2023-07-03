@@ -55,7 +55,7 @@ export const GuardianItems = [
             {name: "파괴석 결정", value: 140},
             {name: "위대한 명예의 돌파석", value: 16},
         ],
-        options: [3]
+        options: [1]
     },
     {
         name: "칼엘리고스",
@@ -95,10 +95,8 @@ export const GuardianItems = [
 
 export const BattleItemOption = [
     {
-        name: "신",
-        items: [
-            {name: "신호탄", value: 2},
-        ]
+        name: "무료",
+        items: []
     },
     {
         name: "신페",
