@@ -71,7 +71,7 @@ export const GuardianItems = [
             {name: "파괴강석", value: 100},
             {name: "경이로운 명예의 돌파석", value: 14},
         ],
-        options: [2,4,5]
+        options: [2,5]
     },
     {
         name: "소나벨",
