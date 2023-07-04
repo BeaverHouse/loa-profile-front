@@ -83,17 +83,19 @@ function CalcPage() {
                   </tbody>
                 </table>
                 <BigText>수익표</BigText>
+                <br/>
+                <SmallText>※ 모두 2수확 기준입니다.</SmallText>
                 <table className="table-bordered" style={{margin: "5px auto", minWidth: "825px"}}>
                   <thead>
                     <tr>
-                      <th>가디언</th>
-                      <th>2수 전리품</th>
+                      <th>가디언 이름</th>
+                      <th>전리품</th>
                       <th>수익</th>
-                      <th>배틀아이템</th>
-                      <th>배템 상세</th>
-                      <th>비용 평균</th>
-                      <th>휴게X 2수 이득</th>
-                      <th>휴게O 2수 이득</th>
+                      <th>배틀아이템<br/>규칙</th>
+                      <th>파티 사용<br/>배틀아이템</th>
+                      <th>평균 비용</th>
+                      <th>휴게X<br/>2수 이득</th>
+                      <th>휴게O<br/>2수 이득</th>
                     </tr>
                   </thead>
                   <tbody>

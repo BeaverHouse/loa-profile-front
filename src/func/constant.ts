@@ -63,7 +63,7 @@ export const GuardianItems = [
             {name: "파괴강석", value: 80},
             {name: "경이로운 명예의 돌파석", value: 10},
         ],
-        options: [2,4]
+        options: [2,5]
     },
     {
         name: "하누마탄",
@@ -80,7 +80,7 @@ export const GuardianItems = [
             {name: "정제된 수호강석", value: 240},
             {name: "찬란한 명예의 돌파석", value: 8},
         ],
-        options: [2,3]
+        options: [2,5]
     },
     {
         name: "가르가디스",
