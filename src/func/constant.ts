@@ -90,6 +90,15 @@ export const GuardianItems = [
             { name: "찬란한 명예의 돌파석", value: 12 },
         ],
         options: [6, 7]
+    },
+    {
+        name: "베스칼",
+        items: [
+            { name: "정제된 파괴강석", value: 160 },
+            { name: "정제된 수호강석", value: 480 },
+            { name: "찬란한 명예의 돌파석", value: 24 },
+        ],
+        options: [2]
     }
 ]
 
