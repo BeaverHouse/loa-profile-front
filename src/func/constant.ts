@@ -111,14 +111,14 @@ export const BattleItemOption = [
         name: "신페",
         items: [
             { name: "신호탄", value: 1 },
-            { name: "페로몬 폭탄", value: 2 },
+            { name: "페로몬 정수", value: 2 },
         ]
     },
     {
         name: "신페페부",
         items: [
             { name: "신호탄", value: 1 },
-            { name: "페로몬 폭탄", value: 2 },
+            { name: "페로몬 정수", value: 2 },
             { name: "부식 폭탄", value: 1 },
         ]
     },
@@ -126,7 +126,7 @@ export const BattleItemOption = [
         name: "신페x2 부x2",
         items: [
             { name: "신호탄", value: 1 },
-            { name: "페로몬 폭탄", value: 2 },
+            { name: "페로몬 정수", value: 2 },
             { name: "부식 폭탄", value: 2 },
         ]
     },
@@ -134,7 +134,7 @@ export const BattleItemOption = [
         name: "신페페파",
         items: [
             { name: "신호탄", value: 1 },
-            { name: "페로몬 폭탄", value: 2 },
+            { name: "페로몬 정수", value: 2 },
             { name: "파괴 폭탄", value: 1 },
         ]
     },
@@ -142,7 +142,7 @@ export const BattleItemOption = [
         name: "신페파암",
         items: [
             { name: "신호탄", value: 1 },
-            { name: "페로몬 폭탄", value: 1 },
+            { name: "페로몬 정수", value: 1 },
             { name: "파괴 폭탄", value: 1 },
             { name: "암흑 수류탄", value: 1 },
         ]
