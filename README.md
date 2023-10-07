@@ -1,13 +1,18 @@
-# 로스트아크 프로필 생성 사이트
+# LOA Profile Front (UI)
+**231008 Code Fixed**   
 
-정보 출처 : 전투정보실   
-기술 스택 : Typescript
+&#10060; No more major Updates...   
+특별한 계기가 없다면, 큰 변경사항 없이 서버만 유지할 계획입니다.
 
+Hosting : Github Actions   
+https://beta.loaprofile.com/
 
-### 주의
-- 아직 개발이 진행중입니다.
-- 사용중인 html2canvas 라이브러리는 일부 브라우저에서 동작하지 않을 수도 있습니다.
-- 다운로드가 작동하지 않으면 자체 화면 캡쳐 기능을 이용해 주세요.
+B/E: https://github.com/BeaverHouse/loa-profile-back
 
-### 백엔드 (Amazon EC2)
-https://api.loaprofile.com/docs
+<br>
+
+## Command
+```
+# for development
+yarn start
+```

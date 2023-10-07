@@ -13,9 +13,13 @@ interface ItemInfo {
 ```
 Advanced Unit
 ```
+interface ImprintInfo extends BaseKeyVal {
+    isJob: boolean;
+}
+
 interface CharInfo {
     id: number;
-    basicInfo : BasicInfo;
+    basicInfo: BasicInfo;
     collectInfo: BaseKeyVal[];
     equipInfo: EquipInfo;
     subEquipInfo: SubEquipInfo;
@@ -45,7 +49,7 @@ interface BasicInfo {
 
 interface Clothes extends ItemInfo {
     name: string;
-    quality: number; 
+    quality: number;
     level: number;
     set: string;
     setLv: number;
@@ -75,7 +79,7 @@ interface SubEquipInfo {
     brace: Brace
     accAvgQuality: number;
     stats: BaseKeyVal[];
-    imprintings: BaseKeyVal[];
+    imprintings: ImprintInfo[];
     imprintSummay: string;
 }
 

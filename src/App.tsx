@@ -28,12 +28,11 @@ function App() {
     >
       <AntdApp>
         <BrowserRouter>
-          <Sidebar/>
-          <Layout style={{minHeight: "100vh"}}>
+          <Sidebar />
+          <Layout style={{ minHeight: "100vh" }}>
             <Routes>
-              <Route path="/" element={<ProfilePage />}/>
-              {/* <Route path="/observe" element={<ObservePage />}/> */}
-              <Route path="/calc" element={<CalcPage/>}/>
+              <Route path="/" element={<ProfilePage />} />
+              <Route path="/calc" element={<CalcPage />} />
             </Routes>
           </Layout>
         </BrowserRouter>

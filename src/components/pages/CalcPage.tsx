@@ -87,7 +87,7 @@ function CalcPage() {
             <br />
             <SmallText>※ 8/2 업데이트 이후 가디언 토벌 1회로 압축</SmallText>
             <br />
-            <a href='https://lostark.game.onstove.com/News/Notice/Views/2492' target='_blank'>https://lostark.game.onstove.com/News/Notice/Views/2492</a>
+            <a href='https://lostark.game.onstove.com/News/Notice/Views/2492' target='_blank' rel='noreferrer'>https://lostark.game.onstove.com/News/Notice/Views/2492</a>
             <br />
             <br />
             <table className="table-bordered" style={{ margin: "5px auto", minWidth: "825px" }}>
