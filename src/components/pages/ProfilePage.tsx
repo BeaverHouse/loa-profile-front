@@ -48,7 +48,9 @@ function ProfilePage() {
       </ColumnFlexDiv>
         : <ColumnFlexDiv>
           <MidText>Tip : 박스를 길게 눌러 드래그해 보세요.</MidText>
-          <RowFlexDiv>
+          <MidText style={{ color: "#D92121" }}>이 페이지는 업데이트가 멈췄어요. 다른 사이트를 추천해요.</MidText>
+          <a href="https://iloa.gg/" target="_blank" rel="noreferrer">https://iloa.gg/</a>
+          <RowFlexDiv style={{ marginTop: 5 }}>
             <Downloader tag='profile-wrapper' />
             <Config />
           </RowFlexDiv>
