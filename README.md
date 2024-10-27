@@ -27,6 +27,12 @@
 
 ### ❌ This repository is deprecated.
 
+| Date       | Description  |
+| ---------- | ------------ |
+| 2022-10-09 | Open website |
+| 2023-11-11 | Final update |
+| 2024-10-27 | Archived     |
+
 <br/>
 
 <details>
