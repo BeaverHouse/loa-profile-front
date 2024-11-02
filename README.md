@@ -16,7 +16,7 @@
       <img src="https://img.shields.io/badge/Yarn-2C8EBB?logo=yarn&logoColor=fff&style=flat" alt="Yarn">
     </a>
     <a href="./LICENSE">
-      <img src="https://img.shields.io/github/license/BeaverHouse/repo-template" alt="License">
+      <img src="https://img.shields.io/github/license/BeaverHouse/loa-profile-front" alt="License">
     </a>
   </p>
 </p>
@@ -31,7 +31,7 @@
 | ---------- | ------------ |
 | 2022-10-09 | Open website |
 | 2023-11-11 | Final update |
-| 2024-10-27 | Archived     |
+| 2024-11-03 | Archived     |
 
 <br/>
 
